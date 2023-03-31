@@ -32,7 +32,7 @@ $ heroku open
 ```
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msuzukiheroku/node-js-getting-started)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msuzukiheroku/node-js-getting-started-button)
 
 ## Documentation
 
